@@ -1,5 +1,5 @@
-# Primeiro-Repositorio
-Primeiro projeto do curso Especialista Back-End JAVA - EBAC
+# Primeiro-exemplo
+Repositório teste para realizar os primeiros comandos
 
 Primeiro commit no repositorio.
 Segundo commit - remoto.
